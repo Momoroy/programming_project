@@ -1,11 +1,11 @@
-#Progetto di Programmazione 2019/2020
+#Programming project 2019/2020
 
-## Esecuzione
-Per giocare, eseguire il file exe contenuto nella cartella bin. 
-una volta aperto ci si ritrova davanti al menu principale con le istruzioni e i crediti, 
-leggere le istruzioni e premere invio per iniziare il gioco 
+## Execute
+To play, execute the file exe inside the bin folder. 
+Once open you'll find yourself in front of the main menu with the instruction and credits
+read the instructions and press enter to start the game 
 
-## Compilazione
+## Compile
 La compilazione deve essere eseguita con un compilatore supportante l'architettura x86_64
 compilare tramite il file cmake.
 il progetto viene fornito comunque precompilato.
