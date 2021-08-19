@@ -6,21 +6,21 @@ Once open you'll find yourself in front of the main menu with the instruction an
 read the instructions and press enter to start the game 
 
 ## Compile
-La compilazione deve essere eseguita con un compilatore supportante l'architettura x86_64
-compilare tramite il file cmake.
-il progetto viene fornito comunque precompilato.
+Compilation must be done with a compiler that supports the x86_64 architecture
+compile via the cmake file.
+however, the project is supplied precompiled.
 
-## Comandi
-Per muovere la nostra macchina basta premere le freccie destra e sinistra per mandare il veicolo
-nella rispettiva direzione, il nostro veicolo è rappresentato da un diamante, posizionato sul fondo
-dello schermo, i vari oggetti partono dal alto invece, questi sono i Powerup, rappresentati dal @ 
-gli ostacoli rappresentati da un rettangolo bianco e le macchine avversarie rappresentate da una A
-non si puo uscire dal campo di gioco altrimenti il punteggio cala
+## Controls
+To move the car you just have to press the left and right arrows to send the vehicle
+in the respective direction, our vehicle is represented by a diamond , placed on the bottom
+screen, the various objects start from the top instead, these are the Powerups, represented by the @
+the obstacles represented by a white rectangle and the opposing cars represented by an A
+you cannot leave the playing field otherwise the score drops
 
-## Licenza
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Contatti
+## Contact details
 Anselmo Ferrari: anselmo.ferrari@studio.unibo.it
 Francesco Maria Vaccari: francesco.vaccari5@studio.unibo.it
 Mauro Molari: mauro.molari2@studio.unibo.it
